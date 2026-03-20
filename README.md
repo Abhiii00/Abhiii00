@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhay Singh Chouhan
 
-🚀 Full Stack Developer | MERN Stack | 1.8+ Years Experience
+🚀 Full Stack Developer | MERN Stack | 3+ Years Experience
 
 ---
 
@@ -20,7 +20,7 @@
 React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap
 
 **Backend:**
-Node.js, Express.js
+Node.js, Express.js, Nest.js
 
 **Database:**
 MongoDB, MySQL, PostgreSQL 
@@ -30,26 +30,9 @@ AWS (S3, EC2), Docker (Learning), Git, Postman
 
 ---
 
-## 📌 Projects
-
-### 🔹 Foryou (E-commerce Platform)
-
-* Developed REST APIs (CRUD operations)
-* Implemented secure authentication using **Bcrypt**
-* Integrated **AWS S3** for image storage
-* Ensured scalable backend architecture
-
-### 🔹 Bambam Token (ICO Platform)
-
-* Worked as a Frontend Developer
-* Integrated APIs for token sale functionality
-* Improved performance and user interaction
-
----
-
 ## 🎯 Current Focus
 
-* 📦 Learning **Docker & DevOps basics**
+* 📦 Learning **Docker & DevOps**
 * 🧠 Improving **System Design & Backend Scaling**
 
 ---
